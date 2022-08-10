@@ -1,8 +1,7 @@
 <!-- introduce myself -->
-<h1>Hi there 👋</h1>
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 <!-- picture -->
-<img href="https://cdn.dribbble.com/users/1068771/screenshots/14247776/downloads/3.jpg">
-
+<img href="file:///home/rkprite09/Downloads/Github_profile.png">
 <!-- about me -->
 <h2 style="color:gold">About me :</h2>
 <ul>
@@ -15,22 +14,23 @@
 
 
 <!-- Languages and  Tools-->
-<h2 style="color:gold">Language and tools : </h2>
+## 🔧 Language and tools : 
 
 <!-- find me on -->
 <h2 style="color:gold">Find me on: </h2>
-<ul>
-    <a href="">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="https://www.hackerrank.com/RidoyChandraDey1">
-      <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="Hackerrank Badge"/>
-    </a>
-    <a href="https://www.facebook.com/ridoychandra.dey.77">
-      <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge/>
-    </a>
-</ul>
-
+<div>
+    <ul>
+        <a href="">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+        </a>
+        <a href="https://www.hackerrank.com/RidoyChandraDey1">
+        <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="Hackerrank Badge"/>
+        </a>
+        <a href="https://www.facebook.com/ridoychandra.dey.77">
+        <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge/>
+        </a>
+    </ul>
+</div>
 <!-- few asked questions answer -->
 <h2 style="color:gold">FAQ Answer: </h2>
 
