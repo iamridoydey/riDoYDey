@@ -1,7 +1,7 @@
 <!-- introduce myself -->
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 <!-- picture -->
-<img href="file:///home/rkprite09/Downloads/Github_profile.png">
+![RIDOY](https://github.com/riDoYDey/riDoYDey/blob/main/Github_profile.png "Ridoy")
 <!-- about me -->
 <h2 style="color:gold">About me :</h2>
 <ul>
@@ -17,7 +17,7 @@
 ## 🔧 Language and tools : 
 
 <!-- find me on -->
-<h2 style="color:gold">Find me on: </h2>
+<h2 color = "gold">Find me on: </h2>
 <div>
     <ul>
         <a href="">
@@ -31,6 +31,8 @@
         </a>
     </ul>
 </div>
+<!-- github stats -->
+## &#x1f4c8; GitHub Stats
 <!-- few asked questions answer -->
 <h2 style="color:gold">FAQ Answer: </h2>
 
