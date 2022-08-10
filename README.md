@@ -1,7 +1,7 @@
 <!-- introduce myself -->
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 <!-- picture -->
-![RIDOY](https://github.com/riDoYDey/riDoYDey/blob/main/Github_profile.png "Ridoy")
+![RIDOY](./Github_profile.png "Ridoy")
 <!-- about me -->
 <h2 style="color:gold">About me :</h2>
 <ul>
@@ -15,7 +15,7 @@
 
 <!-- Languages and  Tools-->
 ## 🔧 Language and tools : 
-
+<p><a href="#"><img src="./icon/vsc.png" title="vs code"></a><a href="#"><img src="./icon/html.png" title="html"></a><a href="#"><img src="./icon/css.png" title="css"></a><a href="#"><img src="./icon/js.png" title="javascript"></a><a href="#"><img src="./icon/python.png" title="python"></a><a href="#"><img src="./icon/django.png" title="django"></a><a href="#"><img src="./icon/icons8-postgresql-48.png" title="postgre sql"></a><a href="#"><img src="./icon/mdb.png" title="mongo db"></a><a href="#"><img src="./icon/aws.png" title="aws"></a><a href="#"><img src="./icon/docker.png" title="docker"></a></P>
 <!-- find me on -->
 <h2 color = "gold">Find me on: </h2>
 <div>
@@ -32,7 +32,6 @@
     </ul>
 </div>
 <!-- github stats -->
-## &#x1f4c8; GitHub Stats
 <!-- few asked questions answer -->
 <h2 style="color:gold">FAQ Answer: </h2>
 
